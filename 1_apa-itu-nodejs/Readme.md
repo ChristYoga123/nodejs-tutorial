@@ -23,4 +23,4 @@ Download Nodejs versi LTS yang lebih stabil di nodejs.org
 
 Bisa menggunakan terminal lalu untuk cek versi node, bisa menggunakan ```node -v``` sedangkan untuk masuk ke dalam ruang code nodeJS, bisa langsung ketik ```node``` lalu Enter. 
 
-<img src="nodejs_console.png" width="300px"/>
+<img src="nodejs_console.png" width="500px"/>
